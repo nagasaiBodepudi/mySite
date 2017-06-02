@@ -25,6 +25,7 @@ SECRET_KEY = 'pwpsprc$27+$mwfp%yxr2f)_%3wsbo$#95c@aja*y+j@x057bk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# Add Ip Address to allow it
 ALLOWED_HOSTS =['localhost','127.0.0.1']
 
 
